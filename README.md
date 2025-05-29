@@ -269,4 +269,4 @@ For support, email support@yourdomain.com or join our Discord server.
 
 ---
 
-Built with ❤️ by [Your Name]
+Built by Gangaraju Chandhana Gayathri
